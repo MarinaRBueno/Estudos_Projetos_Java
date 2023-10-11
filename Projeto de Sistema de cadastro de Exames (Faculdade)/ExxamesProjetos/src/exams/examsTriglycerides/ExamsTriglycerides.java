@@ -21,7 +21,7 @@ public class ExamsTriglycerides extends Exams{
 
     // Construtor da classe Filha
     public ExamsTriglycerides(){
-        super(); // chama construtor da classe pai
+        super(); // Chama o construtor da classe pai
     }
 
     @Override
@@ -30,7 +30,7 @@ public class ExamsTriglycerides extends Exams{
         super.registerExams(); // Chama o método da classe pai para registrar informações básicas do paciente
         try {
             /* Solicita a quantidade de triglicerídeos ao usuário
-            *Faz a conversão para um numeto interio e armazena no atributo
+            *Faz a conversão para um numero inteiro e armazena no atributo
             */ 
             this.amountTriglycerides = Integer.parseInt(JOptionPane.showInputDialog("Quantidade de Triglicerídeos: "));
         } catch (NumberFormatException e) {

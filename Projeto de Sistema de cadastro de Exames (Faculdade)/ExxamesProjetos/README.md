@@ -1,6 +1,6 @@
 # Laboratório de Monitoramento de Exames
 
-Este é um projeto simples de laboratório que visa criar um dispositivo de monitoramento de três tipos de exames: glicemia, colesterol e triglicerídeos. Cada exame possui características em comum, como nome do paciente, tipo sanguíneo e ano de nascimento, além de características específicas. Esse foi um trabalho acadêmico da disciplina de Programação 1 (Análise e Desenvolvimento de Sistemas/UniCesumar), fiz algumas validações, que eram necessárias e pretendo em breve aperfeiçoar esse código, conforme avanço nos estudos.
+Este é um projeto simples de laboratório que visa criar um dispositivo de monitoramento de três tipos de exames: glicemia, colesterol e triglicerídeos. Cada exame possui características em comum, como nome do paciente, tipo sanguíneo e ano de nascimento, além de características específicas. Esse foi um trabalho acadêmico da disciplina de Programação 1 (Análise e Desenvolvimento de Sistemas/UniCesumar), fiz algumas validações que eram necessárias e pretendo em breve aperfeiçoar esse código conforme avanço nos estudos.
 
 ## Características dos Exames
 
