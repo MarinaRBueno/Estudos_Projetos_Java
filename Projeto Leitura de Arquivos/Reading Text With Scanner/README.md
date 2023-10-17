@@ -1,6 +1,6 @@
 # ReadTxt Java com Scanner e File
 
-Estou criando um projeto de ETL, análise e visualização de dados, então nada melhor do que começar com um exemplo simples de um programa Java que lê o conteúdo de um arquivo de texto e imprime suas linhas no console. O código utiliza a classe `Scanner` para realizar a leitura do arquivo. Irei evoluindo para leitura de arquivo CSV e Json.
+Exemplo simples de um programa Java que lê o conteúdo de um arquivo de texto e imprime suas linhas no console. O código utiliza a classe `Scanner` para realizar a leitura do arquivo. Irei evoluindo para leitura de arquivo CSV e Json.
 
 ## Detalhes do Código
 
